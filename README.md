@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leoxaba
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Python - framework - Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leo@l3nx.com
 
